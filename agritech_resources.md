@@ -8,14 +8,7 @@ A comprehensive list of newsletters, publications, and RSS feeds for staying upd
 
 ### General Agritech News
 
-**1. AgriTechTomorrow**
-- Website: https://www.agritechtomorrow.com
-- RSS Feed: `https://www.agritechtomorrow.com/rss/news`
-- Newsletter: https://www.agritechtomorrow.com/subscribe.php
-- Focus: Agricultural technology industry daily news, products, articles
-- Update Frequency: Daily
-
-**2. AgTech Navigator**
+**1. AgTech Navigator**
 - Website: https://www.agtechnavigator.com
 - Newsletter: Available (topic-based and special editions)
 - Focus: Innovation, investment, and regulation in ag-tech and agri-food
